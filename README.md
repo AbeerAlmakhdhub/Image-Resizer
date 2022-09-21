@@ -17,7 +17,9 @@ http://localhost:3000/api/images?imageName=flowersAndSun
 ![flowersAndSun](Expected_Result/flowersAndSun.jpg)
 Resize an Image with the dimensions of width 300 and height 300:
 http://localhost:3000/api/images?imageName=flowersAndSun&width=300&height=300 
+
 ![flowersAndSun-300x300](Expected_Result/flowersAndSun-300x300.jpg)
+
 --Expected result of the above is provided in the file "Expected_Result"
 
 Scripts:
